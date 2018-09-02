@@ -1,0 +1,1 @@
+To run HelloWorldSource.cpp, open up visual studio and create a new empty C++ project. Then add this source code to the source section of new project. Build the project and run the program.
